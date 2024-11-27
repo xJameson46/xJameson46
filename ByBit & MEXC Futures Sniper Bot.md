@@ -1,4 +1,4 @@
-# **ByBit Futures Sniper Bot**
+# **ByBit & MEXC Futures Sniper Bot**
 
 #### Features
 ##### - Monitors & Snipes the newest listing
